@@ -78,7 +78,7 @@ Untuk menggabungkan list A dan B dapat menggunakan operator +.
 ## Program
 ![pic21](https://user-images.githubusercontent.com/115356128/202817002-8a971e05-e4ba-47a0-8470-b13dc859b4b8.png)
 ## output
-![F0506591-B42E-45D8-B8AF-EE0DEC5A8D16](https://user-images.githubusercontent.com/117130461/203257421-c226ee33-c290-404a-9755-b20821ce9e12.jpeg)
+<img width="1391" alt="Screenshot 2022-11-22 at 15 07 28" src="https://user-images.githubusercontent.com/117130461/203260434-4eb23677-0ba2-4b36-b281-b6dc2b458b02.png">
 
 ## Flowchart
 ![pic23](https://user-images.githubusercontent.com/115356128/202830484-1e34100a-46e5-4022-a334-c5a67e305733.png)
